@@ -1,5 +1,4 @@
-# dio-lambda-s3-automation
-# dio-lambda-s3-automation  
+# dio-lambda-s3-automation 
 
 ## Introdução  
 Este repositório foi desenvolvido como parte do desafio da Digital Innovation One (DIO) com foco em **tarefas automatizadas na AWS utilizando Lambda Function e S3**.  
@@ -9,8 +8,6 @@ O objetivo é consolidar os conhecimentos adquiridos sobre automação de proces
 
 ## Objetivos de Aprendizagem  
 - Aplicar conceitos de automação com **AWS Lambda** e **Amazon S3** em um ambiente prático.  
-- Documentar processos técnicos de forma clara e organizada.  
-- Utilizar o GitHub como ferramenta de compartilhamento de documentação técnica.  
 
 ---
 
